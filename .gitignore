@@ -23,7 +23,3 @@ Thumbs.db
 
 # Generated Outputs
 outputs/
-
-# Ignore trained models
-models/*.pkl
-models/*.joblib
