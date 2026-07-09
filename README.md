@@ -121,7 +121,7 @@ python app/app.py
 
 ## 📸 Application Screenshot
 
-![Application Screenshot](assets/app_screenshot.png)
+![Application Screenshot](app/assets/app_screenshot.png)
 
 ---
 
@@ -135,6 +135,10 @@ python app/app.py
 - 📱 Mobile Responsive UI
 
 ---
+### Future Improvements
+- Train separate models for individual crops (Rice, Wheat, Cotton, etc.) to improve prediction accuracy.
+- Apply outlier detection and removal before model training.
+- Use district-level weather and soil data for better predictions.
 
 ## 👩‍💻 Developed By
 
